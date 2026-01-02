@@ -20,7 +20,7 @@ As pastas terão nomes relacionados ao tema ou exercício desenvolvido.
 ## 📚 Atividades
 A lista abaixo será atualizada conforme novas atividades forem adicionadas:
 
-- *Atividade 01* – - Criação de classes básicas em Java para praticar conceitos fundamentais de Programação Orientada a Objetos.  
+- *Atividade 01* – Foram implementadas classes como Carro, Humano, SerVivo, com atributos e métodos representando comportamentos e características. 
 - *Atividade 02* – [Descrição breve]
 - *Atividade 03* – [Descrição breve]
 - *Atividade 04* – [Descrição breve]
