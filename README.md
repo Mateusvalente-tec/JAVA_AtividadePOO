@@ -17,11 +17,3 @@ Praticar e consolidar conceitos de POO em Java, como:
 Cada atividade será adicionada em uma *nova pasta* dentro do repositório.  
 As pastas terão nomes relacionados ao tema ou exercício desenvolvido.
 
-## 📚 Atividades
-A lista abaixo será atualizada conforme novas atividades forem adicionadas:
-
-- *Atividade 01* – Foram implementadas classes como Carro, Humano, SerVivo, com atributos e métodos representando comportamentos e características. 
-- *Atividade 02* – [Descrição breve]
-- *Atividade 03* – [Descrição breve]
-- *Atividade 04* – [Descrição breve]
-- *Atividade 05* – [Descrição breve]
