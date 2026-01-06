@@ -17,3 +17,8 @@ Praticar e consolidar conceitos de POO em Java, como:
 Cada atividade será adicionada em uma *nova pasta* dentro do repositório.  
 As pastas terão nomes relacionados ao tema ou exercício desenvolvido.
 
+
+## 💻 Ambiente de Programação
+Os projetos foram desenvolvidos utilizando:
+IntelliJ IDEA – IDE principal utilizada
+Visual Studio Code – Editor alternativo para alguns exercícios
