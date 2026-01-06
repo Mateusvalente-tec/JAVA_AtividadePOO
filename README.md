@@ -20,5 +20,5 @@ As pastas terão nomes relacionados ao tema ou exercício desenvolvido.
 
 ## 💻 Ambiente de Programação
 Os projetos foram desenvolvidos utilizando:
-IntelliJ IDEA – IDE principal utilizada
-Visual Studio Code – Editor alternativo para alguns exercícios
+- IntelliJ IDEA – IDE principal utilizada
+- Visual Studio Code – Editor alternativo para alguns exercícios
