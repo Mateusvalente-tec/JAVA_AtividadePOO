@@ -22,3 +22,12 @@ As pastas terão nomes relacionados ao tema ou exercício desenvolvido.
 Os projetos foram desenvolvidos utilizando:
 - IntelliJ IDEA – IDE principal utilizada
 - Visual Studio Code – Editor alternativo para alguns exercícios
+
+## 📂 Estrutura do Repositório
+
+Este repositório contém os seguintes projetos:
+
+- `CADASTRO SIMPLES/PROJETOS/src`: primeiros exercícios com entrada de dados, variáveis e lógica básica
+- `CALCULADORA COMPLETA/src`: calculadora funcional com operações matemáticas e estrutura condicional
+- `JAVA/src/Fundamentos/Variaveis`: projeto de cadastro de alunos com estrutura orientada a objetos, utilizando classe `Aluno` e entrada via console
+- `java-curso/src/java_curso`: exercícios práticos para fixar conceitos de POO como herança, polimorfismo e abstração. Inclui classes como `Carro`, `Mobi`, `Sandero`, `Humano`, `SerVivo` e `Main` para testes
