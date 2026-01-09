@@ -27,8 +27,8 @@ Os projetos foram desenvolvidos utilizando:
 
 Este repositório contém os seguintes projetos:
 
-- `CADASTRO SIMPLES/PROJETOS/src`: primeiros exercícios com entrada de dados, variáveis e lógica básica
+- `CADASTRO SIMPLES/PROJETOS/src`: primeiros exercícios com entrada de dados, variáveis e lógica básica.
 - `CADASTROALUNO/cadastroAluno`: Projeto de cadastro de alunos com estrutura orientada a objetos, utilizando a classe Aluno e entrada via console.
-- `CALCULADORA COMPLETA/src`: calculadora funcional com operações matemáticas e estrutura condicional
-- `JAVA/src/Fundamentos/Variaveis`: projeto de cadastro de alunos com estrutura orientada a objetos, utilizando classe `Aluno` e entrada via console
-- `java-curso/src/java_curso`: exercícios práticos para fixar conceitos de POO como herança, polimorfismo e abstração. Inclui classes como `Carro`, `Mobi`, `Sandero`, `Humano`, `SerVivo` e `Main` para testes
+- `CALCULADORA COMPLETA/src`: calculadora funcional com operações matemáticas e estrutura condicional.
+- `JAVA/src/Fundamentos/Variaveis`: projeto de cadastro de alunos com estrutura orientada a objetos, utilizando classe `Aluno` e entrada via console.
+- `java-curso/src/java_curso`: exercícios práticos para fixar conceitos de POO como herança, polimorfismo e abstração. Inclui classes como `Carro`, `Mobi`, `Sandero`, `Humano`, `SerVivo` e `Main` para testes.
